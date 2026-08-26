@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "timezone": "UTC+7",
+  "keys": [
+    {
+      "key": "KAGE-7X9M2P4Q8R6T1W3Y",
+      "hwid": "HWID-001-ABCDEF",
+      "created_at": "2026-08-26T20:00:00+07:00",
+      "expires_at": "2026-08-28T20:00:00+07:00",
+      "status": "active"
+    },
+    {
+      "key": "KAGE-3N8V5C1Z6L2Q9A7B",
+      "hwid": "HWID-002-GHIJKL",
+      "created_at": "2026-08-26T20:05:00+07:00",
+      "expires_at": "2026-08-29T20:05:00+07:00",
+      "status": "active"
+    },
+    {
+      "key": "KAGE-9F4D7S2H8J5K1M6P",
+      "hwid": "HWID-003-MNOPQR",
+      "created_at": "2026-08-26T20:10:00+07:00",
+      "expires_at": "2026-08-27T20:40:00+07:00",
+      "status": "active"
+    }
+  ]
+}
