@@ -4,11 +4,10 @@
   "keys": [
     {
       "key": "KAGE-Itq4kPUdnD07XMDVmdRwYLiTmXWEvTQI",
-      "hwid": "HWID-0C681449-44E62FF7",
-      "created_at": "2026-08-27T09:04:24+07:00",
-      "expires_at": "3025-12-28T09:05:18+07:00",
-      "status": "active",
-      "updated_at": "2026-08-27T09:05:18+07:00"
+      "hwid": "HWID-353A484A-7E1A0D9E",
+      "created_at": "2026-09-29T12:41:04+07:00",
+      "expires_at": "3025-12-28T09:05:04+07:00",
+      "status": "active"
     }
   ]
 }
